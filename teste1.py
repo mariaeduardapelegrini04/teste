@@ -1,2 +1,2 @@
-print("hello word")
-print("blablla")
+import streamlite as st 
+st.title("wello word")
